@@ -2,7 +2,7 @@
   GRAPH 1  <-  graph1.txt
 ############################################################
 
-  4 vertices,  5 arcs loaded.
+  4 vertices,  5 edges loaded.
 
 ============================================================
   WEIGHT MATRIX (initial)
@@ -133,7 +133,7 @@
   GRAPH 2  <-  graph2.txt
 ############################################################
 
-  4 vertices,  5 arcs loaded.
+  4 vertices,  5 edges loaded.
 
 ============================================================
   WEIGHT MATRIX (initial)
@@ -264,7 +264,7 @@
   GRAPH 3  <-  graph3.txt
 ############################################################
 
-  4 vertices,  6 arcs loaded.
+  4 vertices,  6 edges loaded.
 
 ============================================================
   WEIGHT MATRIX (initial)
@@ -395,7 +395,7 @@
   GRAPH 4  <-  graph4.txt
 ############################################################
 
-  4 vertices,  6 arcs loaded.
+  4 vertices,  6 edges loaded.
 
 ============================================================
   WEIGHT MATRIX (initial)
@@ -465,7 +465,7 @@
  2 |    —    2    1    1
  3 |    —    —    —    3
 
-  ⚠  Negative diagonal detected → ABSORBING CIRCUIT found.
+  ⚠  ABSORBING CIRCUIT found.
      Stopping early.
 
 ============================================================
@@ -478,7 +478,7 @@
   GRAPH 5  <-  graph5.txt
 ############################################################
 
-  4 vertices,  7 arcs loaded.
+  4 vertices,  7 edges loaded.
 
 ============================================================
   WEIGHT MATRIX (initial)
@@ -609,7 +609,7 @@
   GRAPH 6  <-  graph6.txt
 ############################################################
 
-  4 vertices,  8 arcs loaded.
+  4 vertices,  8 edges loaded.
 
 ============================================================
   WEIGHT MATRIX (initial)
@@ -661,7 +661,7 @@
  2 |    2    2    2    2
  3 |    —    —    —    3
 
-  ⚠  Negative diagonal detected → ABSORBING CIRCUIT found.
+  ⚠  ABSORBING CIRCUIT found.
      Stopping early.
 
 ============================================================
@@ -674,7 +674,7 @@
   GRAPH 7  <-  graph7.txt
 ############################################################
 
-  7 vertices,  10 arcs loaded.
+  7 vertices,  10 edges loaded.
 
 ============================================================
   WEIGHT MATRIX (initial)
@@ -940,7 +940,7 @@
   GRAPH 8  <-  graph8.txt
 ############################################################
 
-  5 vertices,  7 arcs loaded.
+  5 vertices,  7 edges loaded.
 
 ============================================================
   WEIGHT MATRIX (initial)
@@ -1110,7 +1110,7 @@
   GRAPH 9  <-  graph9.txt
 ############################################################
 
-  5 vertices,  7 arcs loaded.
+  5 vertices,  7 edges loaded.
 
 ============================================================
   WEIGHT MATRIX (initial)
@@ -1280,7 +1280,7 @@
   GRAPH 10  <-  graph10.txt
 ############################################################
 
-  5 vertices,  8 arcs loaded.
+  5 vertices,  8 edges loaded.
 
 ============================================================
   WEIGHT MATRIX (initial)
@@ -1377,7 +1377,7 @@
  3 |    —    —    —    3    3
  4 |    —    4    4    2    2
 
-  ⚠  Negative diagonal detected → ABSORBING CIRCUIT found.
+  ⚠  ABSORBING CIRCUIT found.
      Stopping early.
 
 ============================================================
@@ -1390,7 +1390,7 @@
   GRAPH 11  <-  graph11.txt
 ############################################################
 
-  5 vertices,  9 arcs loaded.
+  5 vertices,  9 edges loaded.
 
 ============================================================
   WEIGHT MATRIX (initial)
@@ -1560,7 +1560,7 @@
   GRAPH 12  <-  graph12.txt
 ############################################################
 
-  5 vertices,  9 arcs loaded.
+  5 vertices,  9 edges loaded.
 
 ============================================================
   WEIGHT MATRIX (initial)
@@ -1730,7 +1730,7 @@
   GRAPH 13  <-  graph13.txt
 ############################################################
 
-  8 vertices,  12 arcs loaded.
+  8 vertices,  12 edges loaded.
 
 ============================================================
   WEIGHT MATRIX (initial)
@@ -1932,12 +1932,10 @@
  6 |    —    —    —    —    —    6    5    6
  7 |    —    —    —    —    —    —    —    7
 
-  ⚠  Negative diagonal detected → ABSORBING CIRCUIT found.
+  ⚠  ABSORBING CIRCUIT found.
      Stopping early.
 
 ============================================================
   RESULT: The graph CONTAINS at least one absorbing circuit.
           Shortest paths cannot be computed reliably.
 ============================================================
-
-
